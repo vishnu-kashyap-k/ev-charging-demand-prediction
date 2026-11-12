@@ -5,6 +5,9 @@ Data analysis and machine learning on EV charging sessions (about 72,000 session
 ## Objective
 Find charging usage patterns, predict the energy demand of a session, classify high-demand sessions and forecast daily demand.
 
+## Dataset
+Charging Record (`ChargingRecords.csv`), a publicly available EV charging transaction dataset with about 72,000 charging sessions. The dataset was provided with the project and is not uploaded to this repository.
+
 ## Approach
 1. Understood the dataset and created a data dictionary
 2. Checked data quality and cleaned the data with Pandas
